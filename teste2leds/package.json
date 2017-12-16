@@ -1,0 +1,14 @@
+{
+  "name": "teste2leds",
+  "version": "1.0.0",
+  "description": "Acendendo 2 LEDS com Johnny-five",
+  "main": "teste1leds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alice Longhi",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.11.7"
+  }
+}
